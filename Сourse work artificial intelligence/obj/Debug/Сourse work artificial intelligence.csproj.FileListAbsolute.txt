@@ -1,0 +1,21 @@
+C:\Users\artem\YandexDisk\VS\Сourse work artificial intelligence\Сourse work artificial intelligence\bin\Debug\Сourse work artificial intelligence.exe.config
+C:\Users\artem\YandexDisk\VS\Сourse work artificial intelligence\Сourse work artificial intelligence\bin\Debug\Сourse work artificial intelligence.exe
+C:\Users\artem\YandexDisk\VS\Сourse work artificial intelligence\Сourse work artificial intelligence\bin\Debug\Сourse work artificial intelligence.pdb
+C:\Users\artem\YandexDisk\VS\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse work artificial intelligence.csproj.AssemblyReference.cache
+C:\Users\artem\YandexDisk\VS\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse work artificial intelligence.csproj.SuggestedBindingRedirects.cache
+C:\Users\artem\YandexDisk\VS\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse_work_artificial_intelligence.Form1.resources
+C:\Users\artem\YandexDisk\VS\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse_work_artificial_intelligence.Properties.Resources.resources
+C:\Users\artem\YandexDisk\VS\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse work artificial intelligence.csproj.GenerateResource.cache
+C:\Users\artem\YandexDisk\VS\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse work artificial intelligence.csproj.CoreCompileInputs.cache
+C:\Users\artem\YandexDisk\VS\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse work artificial intelligence.exe
+C:\Users\artem\YandexDisk\VS\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse work artificial intelligence.pdb
+F:\Загрузки\Obmen_dannymi\Обмен данными\Сourse work artificial intelligence\Сourse work artificial intelligence\bin\Debug\Сourse work artificial intelligence.exe.config
+F:\Загрузки\Obmen_dannymi\Обмен данными\Сourse work artificial intelligence\Сourse work artificial intelligence\bin\Debug\Сourse work artificial intelligence.exe
+F:\Загрузки\Obmen_dannymi\Обмен данными\Сourse work artificial intelligence\Сourse work artificial intelligence\bin\Debug\Сourse work artificial intelligence.pdb
+F:\Загрузки\Obmen_dannymi\Обмен данными\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse work artificial intelligence.csproj.AssemblyReference.cache
+F:\Загрузки\Obmen_dannymi\Обмен данными\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse_work_artificial_intelligence.Form1.resources
+F:\Загрузки\Obmen_dannymi\Обмен данными\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse_work_artificial_intelligence.Properties.Resources.resources
+F:\Загрузки\Obmen_dannymi\Обмен данными\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse work artificial intelligence.csproj.GenerateResource.cache
+F:\Загрузки\Obmen_dannymi\Обмен данными\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse work artificial intelligence.csproj.CoreCompileInputs.cache
+F:\Загрузки\Obmen_dannymi\Обмен данными\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse work artificial intelligence.exe
+F:\Загрузки\Obmen_dannymi\Обмен данными\Сourse work artificial intelligence\Сourse work artificial intelligence\obj\Debug\Сourse work artificial intelligence.pdb
